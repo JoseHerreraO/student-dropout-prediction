@@ -30,7 +30,6 @@ project-root/
 ```
 
 > The notebooks expect the dataset at `../data/rendimiento_estudiantes.csv`.
-> If your folder structure is different, update the path accordingly.
 
 ---
 
